@@ -10,7 +10,7 @@ Simple application usign Golang and Grpc
 
 [Grpc Client](https://github.com/ktr0731/evans)
 
-Generate entities with protoc
+Generating entities and services with protoc
 
 `protoc --go_out=. --go-grpc_out=. proto/course_category.proto`
 
